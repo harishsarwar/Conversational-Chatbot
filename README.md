@@ -8,7 +8,7 @@ A simple chatbot built using Streamlit and the Phi-3.5-mini-instruct model from 
 - Greets users and recognizes if they mention their name using "my name is".
 
 ## Requirements
-- Python 3.x
+- Python 3.9
 - Streamlit
 - Langchain (Hugging Face integration)
 
